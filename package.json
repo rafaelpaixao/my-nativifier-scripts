@@ -1,0 +1,14 @@
+{
+  "name": "alura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "alura": "node alura/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nativefier": "^7.6.12"
+  }
+}
