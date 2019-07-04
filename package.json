@@ -4,7 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "alura": "node alura/app.js"
+    "alura": "node scripts/alura.js",
+    "pucminas": "node scripts/pucminas.js",
+    "sedacollege": "node scripts/sedacollege.js"
   },
   "author": "",
   "license": "ISC",

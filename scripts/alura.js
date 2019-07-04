@@ -6,7 +6,7 @@ var options = {
     targetUrl: 'https://cursos.alura.com.br', // required
     out: 'builds',
     overwrite: true,
-    icon: 'alura/icon.ico',
+    icon: 'scripts/alura.ico',
     counter: false,
     bounce: false,
     maximize: true,
