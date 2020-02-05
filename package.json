@@ -7,6 +7,7 @@
     "alura": "node scripts/alura.js",
     "anydo": "node scripts/anydo.js",
     "azuredevops": "node scripts/azuredevops.js",
+    "pocket": "node scripts/pocket.js",
     "pucminas": "node scripts/pucminas.js",
     "sedacollege": "node scripts/sedacollege.js"
   },
